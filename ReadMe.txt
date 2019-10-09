@@ -20,7 +20,7 @@ You may optionally create a shortcut on your desktop or your preferred location 
 4.	This tool is a functional tool but there is no support to this tool. The engineering team will help us address any major concern and re-visit tool as needed but we can't maintain / support this on regular basis.
 5.	This tool is tested only for BRCD switches with FOS 7.x and 8.x releases only. This tool is not tested on anything else.
 6.	At the moment, this is supported only on 64-bit Windows 7 and 10 version. If you have MAC, please try this on Fusion or on lab windows machine.
-7.	The BETA tool is going to expire on March 15th. We will have final release before that.   
+  
 
 For any feedback, please send an email to: mds-zone-migration@cisco.com
 
